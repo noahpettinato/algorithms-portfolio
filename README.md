@@ -39,23 +39,23 @@ Each script demonstrates core algorithmic design patterns — including recursio
 ```
 algorithms-portfolio/
 │
-├── dynamic_programming/
-│   ├── DNAMatch.py
-│   ├── MaxSet.py
-│   ├── Amount.py
-│
 ├── divide_and_conquer/
 │   └── KthElement.py
 │
-├── greedy/
-│   ├── FeedDog.py
-│   ├── PowerSet.py
+├── dynamic_programming/
+│   ├── Amount.py
+│   ├── DNAMatch.py
+│   └── MaxSet.py
 │
 ├── graph_algorithms/
+│   ├── MinPuzzle.py
 │   ├── MST.py
 │   ├── Puzzle.py
-│   ├── MinPuzzle.py
 │   └── TSP.py
+│
+├── greedy/
+│   ├── FeedDog.py
+│   └── PowerSet.py
 │
 └── README.md
 ```
