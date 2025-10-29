@@ -1,7 +1,7 @@
 # Algorithms Portfolio
 
 A curated collection of concise Python implementations from **CS 325: Analysis of Algorithms** at Oregon State University.  
-Each script demonstrates core algorithmic design patterns — including recursion, dynamic programming, greedy methods, and graph algorithms — with clear documentation and problem-focused code structure.
+Each script demonstrates key algorithmic design patterns such as recursion, dynamic programming, greedy methods, and graph algorithms, written with clear documentation and a focus on problem-solving structure.
 
 ---
 
